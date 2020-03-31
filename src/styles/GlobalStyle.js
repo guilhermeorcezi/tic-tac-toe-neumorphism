@@ -17,6 +17,10 @@ body {
     font-family: 'Roboto', sans-serif;
     height:100vh;
   }
+
+  button{
+    font-family: 'Roboto', sans-serif;
+  }
 `;
 
 export default GlobalStyle;

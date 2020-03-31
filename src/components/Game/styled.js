@@ -12,9 +12,11 @@ export const GameWrapper = styled.div`
 
 	button.reset {
 		margin-top: 30px;
-		font-size: 16px;
+		text-transform: uppercase;
+		letter-spacing:2px;
 		line-height: 16px;
 		padding: 16px 43px;
+		font-size: 24px;
 		border: 0;
 		outline: 0;
 		font-weight: 900;
