@@ -13,7 +13,7 @@ To create that web application was used:
 
 ## Project
 
-A simple application to show informations about a Github repository through the Github's API.
+A simple tic-tac-toe game created with React to practice concepts of neomorphism style. 
 
 ## Getting started
 
