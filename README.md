@@ -1,10 +1,10 @@
 <h1 align="center">
   <img src="./assets/web.png" alt="Omnistack 10" width="700">
 <br>
-GitRepo
+Tic Tac Toe Neomorphism
 </h1>
 
-<p align="center"> A React application to show github repositories
+<p align="center"> A Tic Tac Toe Game with Neomorphism style
 
 ## Features
 To create that web application was used:
