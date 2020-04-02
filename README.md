@@ -4,7 +4,7 @@
 Tic Tac Toe Neomorphism
 </h1>
 
-<p align="center"> A Tic Tac Toe Game with Neomorphism style
+<p align="center"> A Tic Tac Toe Game with Neumorphism style
 
 ## Features
 To create that web application was used:
@@ -13,7 +13,7 @@ To create that web application was used:
 
 ## Project
 
-A simple tic-tac-toe game created with React to practice concepts of neomorphism style. 
+A simple tic-tac-toe game created with React to practice concepts of neumorphism style. 
 
 ## Getting started
 
